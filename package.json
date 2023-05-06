@@ -1,0 +1,36 @@
+{
+  "name": "nameste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react by Swapnil Thomare",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilthomare/Namaste-React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Swapnil Thomare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilthomare/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/swapnilthomare/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+
+  ]
+  
+}
